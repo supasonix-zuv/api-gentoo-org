@@ -4763,6 +4763,16 @@
     </owner>
     <source type="rsync">rsync://gentoo.zugaina.org/zugaina-portage</source>
   </repo>
+    <repo quality="experimental" status="unofficial">
+      <name>zuv-overlay</name>
+      <description lang="en">supasonix-zuv's personal ebuilds</description>
+      <homepage>https://github.com/supasonix-zuv/supasonix-zuv</homepage>
+      <owner type="person">
+        <email>supasonix@cock.email</email>
+      </owner>
+      <source type="git">https://github.com/supasonix-zuv/supasonix-zuv.git</source>
+      <source type="git">git@github.com:supasonix-zuv/supasonix-zuv.git</source>
+    </repo>
   <repo quality="experimental" status="unofficial">
     <name>zyrenth</name>
     <description lang="en">Personal overlay</description>
